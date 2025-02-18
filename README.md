@@ -1,4 +1,4 @@
-# Active Directory configuration with Splunk implementation and generated attack telemetry
+# Active Directory configuration with Splunk implementation and generated attack telemetry.
 ## Objective
 [Brief Objective - Remove this afterwards]
 
